@@ -1,0 +1,5 @@
+c:\users\jspatton\documents\visual studio 2013\Projects\ManagementPack\ManagementPack\bin\Debug\ManagementPack.dll
+c:\users\jspatton\documents\visual studio 2013\Projects\ManagementPack\ManagementPack\bin\Debug\ManagementPack.pdb
+c:\users\jspatton\documents\visual studio 2013\Projects\ManagementPack\ManagementPack\obj\Debug\ManagementPack.dll
+c:\users\jspatton\documents\visual studio 2013\Projects\ManagementPack\ManagementPack\obj\Debug\ManagementPack.pdb
+C:\Users\jspatton\documents\visual studio 2013\Projects\ManagementPack\ManagementPack\obj\Debug\ManagementPack.csprojResolveAssemblyReference.cache
